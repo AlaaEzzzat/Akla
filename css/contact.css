@@ -1,0 +1,67 @@
+/* start attention */
+.attention {
+    background-color: #F00;
+    color: #FFF;
+    padding: 10px 0;
+
+}
+
+.content {
+    padding: 0 10px;
+}
+
+.exit {
+    float: right
+}
+
+.text {
+    margin-left: 10px;
+}
+/* end attention*/
+/* start contact us */
+.contact {
+	background-color: #f8f9fa
+}
+.first-head {
+    padding-top: 70px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-size: 36px;
+    color: #333;
+}
+.first-p {
+    color: #a1a1a1;
+    line-height: 1.4;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+.contact form input,
+.contact form textarea {
+    margin-left: 0;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #e0e0e0;
+    box-shadow: none;
+}
+
+.contact form input {
+    margin-bottom: 10px;
+}
+
+.contact form textarea {
+    height: 134px;
+}
+.yellow-button {
+    margin: 0;
+    padding: 12px 27px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    border: none;
+    color: #FFF;
+    background-color: #3f3939;
+    font-size: 19px;
+    border-radius: 8px;
+}
+
+
+/* end contact us */
